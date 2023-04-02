@@ -3,7 +3,7 @@ ___
 
 ### Who am i !
 
-I am C and Vim Enjoyer.
+I am C developer and Vim Enjoyer.
 
 ___
 
