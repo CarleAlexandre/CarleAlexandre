@@ -4,14 +4,19 @@ ___
 ### Who am i !
 
 I am C developer and Vim Enjoyer.
+I Love Programming in C and software
+
+I enjoy game making, using opengl and raylib.
 
 ___
 
-## Here is a quote i really like from Terry A. Davis
+## Here is a quote i really like
 
 “An idiot admires complexity, a genius admires simplicity, a physicist tries to make it simple, for an idiot anything the more complicated it is the more he will admire it, if you make something so clusterfucked he can't understand it he's gonna think you're a god cause you made it so complicated nobody can understand it. That's how they write journals in Academics, they try to make it so complicated people think you're a genius”
 
 ― Terry Davis, Creator of Temple OS
+
+Keeping it simple is how i see software
 
 ___
 
